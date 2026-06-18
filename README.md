@@ -193,4 +193,3 @@ Shows the comparison between actual and predicted classes.
 ## 2.  Accuracy
 ## 3.  Accuracy graph
 ## 4.  Loss graph
-## 5.  confusion matrix
